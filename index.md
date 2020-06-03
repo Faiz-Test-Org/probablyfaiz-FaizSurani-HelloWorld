@@ -9,7 +9,7 @@ The College of Creative Studies (CCS) Computing Program provides a small, tight-
 * [Faculty Profiles](/faculty)
 * [Student Publications](/publications)
 
-# About this website
+# About this not website
 
 This site is maintained in this github repo: <{{ site.github_url }}>, and is based on Github Pages, Jekyll, and Bootstrap.   Members of the CCS Computing community are encourage to help keep the content up to date by forking and doing pull requests. 
 
